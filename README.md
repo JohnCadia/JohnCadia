@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnCadia
+- 👋 Hi, I’m Chris Turner
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning Html and css
 - 💞️ I’m looking to collaborate on anyone
